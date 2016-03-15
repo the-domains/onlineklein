@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[onlineklein]]></title>
         <description><![CDATA[onlineklein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onlineklein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 04:39:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 05:12:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onlineklein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82db4db9-b17f-47af-ac26-6cc6eec63a0d.jpg">]]></description>
+            <link>https://thegrid.ai/onlineklein/99c33308-7160-4c88-a09f-5f39774f0b1f/index.html</link>
+            <guid isPermaLink="false">99c33308-7160-4c88-a09f-5f39774f0b1f</guid>
+            <pubDate>Tue, 15 Mar 2016 05:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1db366-46b5-4b5f-a16a-1b0ebd4ce6df.jpg">]]></description>
-            <link>undefined7a721b4f-9ad8-4b19-8040-5f2d59fceca7/index.html</link>
+            <link>https://thegrid.ai/onlineklein/7a721b4f-9ad8-4b19-8040-5f2d59fceca7/index.html</link>
             <guid isPermaLink="false">7a721b4f-9ad8-4b19-8040-5f2d59fceca7</guid>
             <pubDate>Tue, 15 Mar 2016 04:39:14 GMT</pubDate>
         </item>
